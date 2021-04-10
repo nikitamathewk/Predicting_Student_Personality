@@ -3,6 +3,7 @@
 Predicting Students Personality from text using Glove model.
 
 prediction_big_5.ipynb     : Predicting using only Essay dataset(Big 5 model)
+
 prediction_mbti_Big_5.ipynb: Predicting using only Essay dataset(Big 5 model) and MTBI (from Kaggle)
 
 
@@ -12,6 +13,10 @@ Essay for Big Five :http://web.archive.org/web/20160519045708/http://mypersonali
 Emotion Lexicon:https://www.saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm
 MTBI:https://www.kaggle.com/datasnaek/mbti-type
 
+GLOVE:
+
+http://nlp.stanford.edu/data/glove.840B.300d.zip
+http://nlp.stanford.edu/data/glove.6B.zip
 
 Big Five Model:
 https://en.wikipedia.org/wiki/Big_Five_personality_traits
