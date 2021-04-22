@@ -2,15 +2,14 @@
 
 Predicting Students Personality from text using Glove model.
 
-prediction_big_5.ipynb     : Predicting using only Essay dataset(Big 5 model)
+Student_Personality_Prediction_Using_Keras_Glove (5).ipynb   : Predicting using keras and lstm
 
-prediction_mbti_Big_5.ipynb: Predicting using only Essay dataset(Big 5 model) and MTBI (from Kaggle)
+Personality_Prediction_Using_Keras_Glove_and_bilstm.ipynb: Predicting using  keras and bilstm
 
 
 Data used:
 
 Essay for Big Five :http://web.archive.org/web/20160519045708/http://mypersonality.org/wiki/doku.php?id=wcpr13
-Emotion Lexicon:https://www.saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm
 MTBI:https://www.kaggle.com/datasnaek/mbti-type
 
 GLOVE:
@@ -18,6 +17,8 @@ GLOVE:
 http://nlp.stanford.edu/data/glove.840B.300d.zip
 http://nlp.stanford.edu/data/glove.6B.zip
 
+
+For more details regarding the personality models
 Big Five Model:
 https://en.wikipedia.org/wiki/Big_Five_personality_traits
 
